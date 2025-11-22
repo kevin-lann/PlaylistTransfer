@@ -43,7 +43,7 @@ REDIRECT_URL = 'http://localhost:8888/callback'
 
 # Running
 
-THe script takes a single command-line argument. For transferring a playlist to Spotify, use "sp". Likewise, for transferring a playlist to Youtube Music, use "yt".
+The script takes a single command-line argument. For transferring a playlist to Spotify, use "sp". Likewise, for transferring a playlist to Youtube Music, use "yt".
 
 eg.
 
